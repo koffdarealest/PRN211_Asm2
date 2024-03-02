@@ -1,0 +1,12 @@
+D:\SE\Spring24_\PRN211\Ass02Solution\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+D:\SE\Spring24_\PRN211\Ass02Solution\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+D:\SE\Spring24_\PRN211\Ass02Solution\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+D:\SE\Spring24_\PRN211\Ass02Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.AssemblyReference.cache
+D:\SE\Spring24_\PRN211\Ass02Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE\Spring24_\PRN211\Ass02Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+D:\SE\Spring24_\PRN211\Ass02Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+D:\SE\Spring24_\PRN211\Ass02Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\SE\Spring24_\PRN211\Ass02Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+D:\SE\Spring24_\PRN211\Ass02Solution\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+D:\SE\Spring24_\PRN211\Ass02Solution\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+D:\SE\Spring24_\PRN211\Ass02Solution\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll
